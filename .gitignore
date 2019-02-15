@@ -5,6 +5,17 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Multiverse Marketing
+Packages/
+[Ll]ogs/
+Projectsettings/
+
+Assets/GoogleARCore/
+Assets/PlayServicesResolver/
+
+*.meta
+
+
 # Visual Studio cache directory
 .vs/
 
